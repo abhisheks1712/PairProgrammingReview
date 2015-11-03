@@ -1,4 +1,6 @@
 Hi, I am Abhishek Sharma. I couldn't record a pair programming session because i started the homework very late.
-I think that's a way to learn. I will surely do some pair programming session in future.
+I think pair programming is a great way to learn and it is better than solo programming because it will provide you many ways to think about a problem as different people have different ideas and that's why it will enhance the thought process about a particular problem. I will surely do some pair programming sessions in future.
 
-I did this
+I did find this homework assignment a great review of the material covered in week 1. Every concept taught in week 1 was there in problem in some way or other. I started looking at documentation for ruby though i got stuck at some points but i finally i got managed to get right concept by searching online. Rubular.org is a really good resource for regex. Finally Problem solving wasn't much touch as i have some background of programming and problems weren't lengthy and could be solved mostly with bulit in functions in ruby. Overall experience was really good.
+
+Thanks
